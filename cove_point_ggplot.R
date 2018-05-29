@@ -28,7 +28,7 @@ wind1$year<-as.factor(wind1$year)
 wind2$year<-as.factor(wind2$year)
 
 #####Some things to specify that I will call upon later#####
-pal7<-c("North"="#E69F00", "Mid"="#F0E442", "South"="#009E73", "Hobo"="#56B4E9", "Kayak"="#56B4E9")
+pal7<-c("North"="#E69F00", "Mid"="#F0E442", "South"="#009E73")
 ypal2 <- c("2010"="#fde0dd", "2011"="#fcc5c0", "2012"="#fa9fb5", "2013"="#f768a1", 
            "2014"="#dd3497", "2015"="#ae017e", "2016"="#7a0177", "2017"="#49006a")
 degrees<-c(0, 45, 90, 135,180,225,270,315)
